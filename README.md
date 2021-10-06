@@ -1,3 +1,5 @@
+This demo walks through a sequence showing how Terraform can be used to build a pipeline for an Amazon ECS Fargate workload based on the BlazorShop sample application. The pipeline uses AWS CodePipeline, AWS CodeCommit, AWS CodeBuild, Amazon ECS/Fargate and Amazon ECR.
+
 ![AWS Serverless CI/CD Pipeline Architecture](https://github.com/sk4red/aws-cicd-demo/blob/main/aws-cicd-arch.png)
 
 ### FARGATE
